@@ -4,3 +4,5 @@ read this (pic is awesome):
 https://math.stackexchange.com/questions/2191451/fractals-and-kleinian-groups-rendering-the-limit-set
 some nice pictures for ideas:
 https://www.google.de/search?q=making+fractals+using+Iterated+function+systems&client=ubuntu&hs=ERS&channel=fs&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwintrfpk_jYAhUHZVAKHWd1DIIQ_AUICigB&biw=1301&bih=647
+
+A side thought about fractal-maker: mb it is better to make a random walking algorithm instead of the current one? 
